@@ -1,0 +1,9 @@
+!MS$FREEFORM
+! Microsoft Developer Studio generated include file.
+! Used by StatePattern_Game.rc
+!
+      integer, parameter :: IDD_ABOUTBOX                    = 100
+      integer, parameter :: IDR_MAINFRAME                   = 128
+      integer, parameter :: IDR_STATEPTYPE                  = 129
+      integer, parameter :: IDS_STRING_GAMEDESCRIPTION      = 129
+      integer, parameter :: IDB_BITMAP_SHIP                 = 130
